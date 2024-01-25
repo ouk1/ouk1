@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Charles Zhou</h1>
 <h3 align="center">A Student at Wilfrid Laurier University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ouk1&label=Profile%20views&color=0e75b6&style=flat" alt="ouk1" /> </p>
-
 - 🌱 I’m currently learning **Amazon Cloud**
 
 - 📫 How to reach me **clzhou9@gmail.com**
