@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Charles Zhou</h1>
-<h3 align="center">A Student at Wilfrid Laurier University</h3>
+<h1 align="center">Hi 👋, I'm Charles</h1>
+<h3 align="center"></h3>
 
 - 🌱 I’m currently learning **Amazon Cloud**
 
