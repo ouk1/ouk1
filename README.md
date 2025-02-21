@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Amazon Cloud**
 
-- 📫 How to reach me **clzhou9@gmail.com**
+//- 📫 How to reach me **clzhou9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
